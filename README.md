@@ -10,5 +10,5 @@ Section: CPE21S4
 
 
 <p align="center">
-  <img src="[path/to/image.png](https://github.com/Rayven31/Portfolio-of-Hands-On-Activities/blob/CPE-010-CPE21S4---Data-Structures-and-Algorithms/Neon%20COMP%20ENG%20Tech%20Badge.png?raw=true)" alt="Course Description" width="100%">
+  <img src="[https://github.com/Rayven31/Portfolio-of-Hands-On-Activities/blob/CPE-010-CPE21S4---Data-Structures-and-Algorithms/Neon%20COMP%20ENG%20Tech%20Badge.png?raw=true]" alt="Course Description" width="100%">
 </p>
