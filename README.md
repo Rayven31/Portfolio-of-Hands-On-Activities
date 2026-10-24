@@ -46,4 +46,4 @@ $\Large\textcolor{#2ea44f}{\textbf{dynamic programming}}$
 Master a method for solving difficult problems by breaking them into smaller sub-problems. You will learn how to save the answers to these sub-problems so you never waste computer power calculating the exact same thing twice.
 
 
-![Image Alt](
+![Image Alt](https://github.com/Rayven31/Portfolio-of-Hands-On-Activities/blob/CPE-010-CPE21S4---Data-Structures-and-Algorithms/aa.jpg?raw=true)
