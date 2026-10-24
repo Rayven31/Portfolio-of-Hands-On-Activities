@@ -44,3 +44,6 @@ This course introduces data structures and algorithms with a strong focus on tim
 $\Large\textcolor{#2ea44f}{\textbf{dynamic programming}}$
 
 Master a method for solving difficult problems by breaking them into smaller sub-problems. You will learn how to save the answers to these sub-problems so you never waste computer power calculating the exact same thing twice.
+
+
+![Image Alt](
