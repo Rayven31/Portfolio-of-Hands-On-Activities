@@ -47,3 +47,7 @@ Master a method for solving difficult problems by breaking them into smaller sub
 
 
 ![Image Alt](https://github.com/Rayven31/Portfolio-of-Hands-On-Activities/blob/CPE-010-CPE21S4---Data-Structures-and-Algorithms/aa.jpg?raw=true)
+
+<font face="Georgia">
+  In this course, I learned how to write code that stays fast and efficient even when working with huge amounts of data. I discovered how computer memory actually works—using pointers to track memory locations, asking for extra memory on the fly, and choosing between simple arrays or connected linked lists to store data. I also learned how to use specialized tools like stacks for "undo" features and graphs to map connections like social media networks. Finally, I learned how to use Big O notation to grade my code's speed, sort lists efficiently using algorithms like Merge Sort, and use dynamic programming to remember past solutions so my program never wastes time repeating the same calculations.
+</font>
